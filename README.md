@@ -11,7 +11,7 @@ First, you need to copy the JavaScript code from the file named `touchtarget.js`
 - Open your web browser and navigate to the bookmarks bar.
 - Right-click on the bookmarks bar and select "Add Page" or "New Bookmark," depending on your browser.
 - In the Name field, enter `24px Checker` to label your bookmark.
-- In the URL or Location field, paste the JavaScript code you copied from `touchtarget.js`.
+- In the URL or Location field, paste the JavaScript code you copied from `TouchTarget.js`.
 
 ## Step 3: Use the Bookmarklet
 
