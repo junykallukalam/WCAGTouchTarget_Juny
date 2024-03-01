@@ -4,7 +4,7 @@ To use the "24px Checker" bookmarklet for assessing WCAG 2.2 target size complia
 
 ## Step 1: Copy the JavaScript Code
 
-First, you need to copy the JavaScript code from the file named `touchtarget.js`. This code enables the bookmarklet to change the cursor's appearance, aiding in the visual assessment of interactive elements on webpages.
+First, you need to copy the JavaScript code from the file named `TouchTarget.js`. This code enables the bookmarklet to change the cursor's appearance, aiding in the visual assessment of interactive elements on webpages.
 
 ## Step 2: Create a Bookmark
 
